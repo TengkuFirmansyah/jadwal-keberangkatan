@@ -1,0 +1,11 @@
+.navbar{
+    transition: top 0.5;
+}
+.navbar-sticky{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+.navbar-hidden{
+    top: -60px;
+}
